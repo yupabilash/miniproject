@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b797020-9086-4150-8979-8f30101451f0" name="Default Changelist" comment="managementapp\urls.py created &#10;changed urls path">
+    <list default="true" id="3b797020-9086-4150-8979-8f30101451f0" name="Default Changelist" comment="table created in models.py for gymmanagement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gym_management/gym_management/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_management/gym_management/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gym_management/managementapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_management/managementapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_management/managementapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_management/managementapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_management/managementapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_management/managementapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611560608698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="table created in models.py for gymmanagement">
+      <created>1611578741743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611578741743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +89,7 @@
     <MESSAGE value="created app name managementapp" />
     <MESSAGE value="changed timezone in settings" />
     <MESSAGE value="managementapp\urls.py created &#10;changed urls path" />
-    <option name="LAST_COMMIT_MESSAGE" value="managementapp\urls.py created &#10;changed urls path" />
+    <MESSAGE value="table created in models.py for gymmanagement" />
+    <option name="LAST_COMMIT_MESSAGE" value="table created in models.py for gymmanagement" />
   </component>
 </project>
